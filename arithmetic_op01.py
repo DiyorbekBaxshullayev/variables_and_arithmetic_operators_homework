@@ -6,4 +6,5 @@
 
 num_one =5
 num_two =4
-print (num_one + num_two)
+variable_total =num_one + num_two
+print (variable_total)
